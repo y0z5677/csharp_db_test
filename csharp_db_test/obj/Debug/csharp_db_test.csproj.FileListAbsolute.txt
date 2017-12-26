@@ -1,0 +1,7 @@
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\bin\Debug\csharp_db_test.exe.config
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\bin\Debug\csharp_db_test.exe
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\bin\Debug\csharp_db_test.pdb
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\obj\Debug\csharp_db_test.csprojResolveAssemblyReference.cache
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\obj\Debug\csharp_db_test.csproj.CoreCompileInputs.cache
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\obj\Debug\csharp_db_test.exe
+C:\Users\y0z56\Source\Repos\csharp_db_test\csharp_db_test\obj\Debug\csharp_db_test.pdb
