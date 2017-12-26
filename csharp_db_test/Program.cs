@@ -10,7 +10,7 @@ namespace csharp_db_test
             try
             {
                 var cb            = new SqlConnectionStringBuilder();
-                cb.DataSource     = "sample12345.database.windows.net";
+                cb.DataSource     = "database.windows.net";
                 cb.UserID         = "";
                 cb.Password       = "";
                 cb.InitialCatalog = "mySampleDatabase";
